@@ -44792,7 +44792,7 @@ s=A.Ll(a,!1,t.tl)
 r=A.da(a,j,t.w).w.a
 q=r.b
 p=A.b([B.hN,B.lM],t.t_)
-o=A.ar3(0,A.aqQ("images/background.json",B.hh,j),j)
+o=A.ar3(0,A.aqQ("assets/images/background.json",B.hh,j),j)
 if(r.a<1300){n=k.zQ(s)
 n=A.ari(A.fT(A.b([n,B.cV,A.aqn(k.J2(s),600,1/0),B.cV,k.IY()],t.p),B.W,B.a_,B.a2),j)}else if(q<750)n=A.q2(A.b([k.zQ(s)],t.p),B.W,B.a_,B.a2)
 else{n=k.zQ(s)
@@ -44816,7 +44816,7 @@ $C:"$3",
 $R:3,
 $S:326}
 A.a2v.prototype={
-$2(a,b){var s="images/hi.json",r=null,q=this.a,p=this.b,o=t.p
+$2(a,b){var s="assets/images/Hi.json",r=null,q=this.a,p=this.b,o=t.p
 return new A.dV(B.mu,b.b<600?A.fT(A.b([A.aqQ(s,r,180),B.yB,q.J1(p)],o),B.W,B.a_,B.a2):A.q2(A.b([A.aqQ(s,r,200),B.TG,A.Iv(q.J1(p),1,r)],o),B.W,B.a_,B.a2),r)},
 $S:330}
 A.a2t.prototype={
